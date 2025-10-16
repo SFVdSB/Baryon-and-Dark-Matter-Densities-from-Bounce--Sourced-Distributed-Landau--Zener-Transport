@@ -1,0 +1,29 @@
+{
+  "regime": "nonthermal",
+
+  "m_chi_GeV": 0.95,
+  "g_chi": 2,
+  "chi_stats": "fermion",
+  "sigma_v_chi_GeV_m2": 0.0,
+
+  "T_p_GeV": 100.0,
+  "beta_over_H": 100.0,
+  "v_w": 0.30,
+  "I_p": 0.34,
+
+  "g_star": 106.75,
+  "g_star_s": 106.75,
+
+  "P_chi_to_B": 0.14925839040304145,
+  "source_shape_sigma_y": 9.0,
+  "Gamma_wash_over_H": 0.0,
+
+  "incident_flux_scale": 1.07e-9,
+  "deplete_DM_from_source": false,
+
+  "T_max_over_Tp": 5.0,
+  "T_min_over_Tp": 0.001,
+
+  "Y_chi_init": 4.90e-10,
+  "n_chi_at_Tp_GeV3": null
+}
