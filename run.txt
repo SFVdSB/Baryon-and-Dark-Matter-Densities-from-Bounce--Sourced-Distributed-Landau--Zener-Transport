@@ -1,0 +1,1 @@
+python first_principles_yields.py --config yields_config_equal_mass.json --diagnostics
